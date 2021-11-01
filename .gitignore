@@ -58,6 +58,11 @@ web_modules/
 
 # Optional eslint cache
 .eslintcache
+# Temporary folders
+them/
+tmp/
+temp/
+
 
 # Microbundle cache
 .rpt2_cache/
@@ -126,9 +131,6 @@ dist
 # Serverless Webpack directories
 .webpack/
 
-# Temporary folders
-tmp/
-temp/
-them/
+
 
 # End of https://www.toptal.com/developers/gitignore/api/node
